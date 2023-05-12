@@ -9,6 +9,7 @@ description: storage in testing
 keywords:
 author: 翊
 language: en
+#language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -115,7 +116,7 @@ symbols_count_time:
   total_time: true
   exclude_codeblock: false
   awl: 2
-  wpm: 400
+  wpm: 350
   suffix: "mins."
 
 # Local Search
