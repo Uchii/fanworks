@@ -3,7 +3,7 @@ title: 【颂键】Grundbestiz ohne Besitzer
 date: 2024-07-05
 tags: [颂键]
 categories: [明日方舟]
-description: 　　原世界观下，黑键在1100年没有前往崔林特尔梅的if线。十九岁时他在命运面前转身离去，而今他却走向它。
+description: 　　原世界观下，黑键在1100年没有前往崔林特尔梅的if线。
 ---
 
 
