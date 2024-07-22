@@ -1,5 +1,5 @@
 ---
-title: 【炎博】Hug Challenge/拥抱挑战
+title: 【炎博】Hug Challenge
 date: 2020-03-27
 tags: [炎博]
 categories: [明日方舟]
